@@ -1,0 +1,7 @@
+POST https://localhost:7033/auth/register 
+Content-Type: application/json
+
+{
+  "username": "",
+  "password": ""
+}
